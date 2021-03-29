@@ -1,0 +1,1 @@
+# vimnium.config
